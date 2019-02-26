@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver:v1.13.3
-MAINTAINER mritd <mritd@mritd.me>
+FROM k8s.gcr.io/kube-apiserver:v1.13.3
+MAINTAINER lep
